@@ -1,2 +1,2 @@
-# gdggirona
-Gestion de gdggirona
+# GDG Girona Event Manager
+Gestion de GDG Events 
